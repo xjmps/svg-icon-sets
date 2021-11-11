@@ -1,0 +1,30 @@
+
+
+ h1{
+   color: #fff;
+   font: Overpass;
+   font-size: 2rem;
+   font-weight: bold;
+ }
+
+ h2{
+   color: #fff;
+   font: Overpass;
+   font-size: 1.5rem;
+   font-weight: bold;
+ }
+
+ body {
+   color: #fff;
+   font: Overpass;
+   font-size: 1.125rem;
+   font-weight: regular;
+ }
+
+ table.table1 {
+   grid-gap: 6vmin;
+   margin: 1.5rem;
+   padding: 6vmin, 1rem;
+   border-width: .2rem;
+   background-color: linear-gradient (#ff9500,#ff5e3a);
+ }
